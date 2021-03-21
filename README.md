@@ -1,7 +1,7 @@
 # c64
 
 [![PyPI](https://img.shields.io/pypi/v/c64.svg)](https://pypi.org/project/c64/)
-[![Changelog](https://img.shields.io/github/v/release/simonw/c64?label=changelog)](https://github.com/simonw/c64/releases)
+[![Changelog](https://img.shields.io/github/v/release/simonw/c64?include_prereleases&label=changelog)](https://github.com/simonw/c64/releases)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/simonw/c64/blob/main/LICENSE)
 
 Experimental package of ASGI utilities extracted from Datasette
